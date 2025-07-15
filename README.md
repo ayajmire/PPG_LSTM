@@ -20,7 +20,7 @@ This repository contains a deep learning pipeline to:
 - `PPG-BP dataset.xlsx` — Dataset reference or sample metadata
 
 ## Results
-The LSTM achieved a MAE of ~5 mmHg on SBP and ~ mmHg on DBP using external validation data.
+The LSTM achieved a MAE of ~5 mmHg on SBP and ~2 mmHg on DBP using external validation data.
 
 ## Future Work
 - Integrate with iOS camera feed for real-time PPG capture
