@@ -1,4 +1,4 @@
-# PPG_LSTM
+# Blood Pressure Estimation LSTM from camera
 
 An LSTM model for estimating systolic and diastolic blood pressure from PPG (Photoplethysmography) waveforms.
 
